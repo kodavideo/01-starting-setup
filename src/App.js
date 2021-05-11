@@ -1,3 +1,7 @@
+//takoda studying react
+// branch tings WHAT
+// we keep to yolo 
+
 import ExpenseItem from './components/ExpenseItem'
 
 function App() {
