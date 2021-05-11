@@ -1,6 +1,7 @@
 //takoda studying react
 // branch tings WHAT
-// we keep to yolo 
+// we keep to yolo
+// soulja
 
 import ExpenseItem from './components/ExpenseItem'
 
